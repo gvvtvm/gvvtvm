@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Goutam</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-- 📫 How to reach me **goutamv9899@gmail.com**
+- 📫 How to reach me **contact.gtmv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
